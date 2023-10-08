@@ -1,7 +1,5 @@
 package me.fengyj.algorithms.sorter;
 
-import java.util.Arrays;
-
 public class Quick<T extends Comparable<T>> extends Sorter<T> {
 
     protected void sort_array(T[] a) {

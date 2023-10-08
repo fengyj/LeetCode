@@ -1,6 +1,5 @@
 package me.fengyj.leetcode.all.dynamic_programming;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class No_935_KnightDialer {

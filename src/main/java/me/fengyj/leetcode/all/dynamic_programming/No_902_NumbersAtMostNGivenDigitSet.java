@@ -1,7 +1,5 @@
 package me.fengyj.leetcode.all.dynamic_programming;
 
-import java.util.Arrays;
-
 public class No_902_NumbersAtMostNGivenDigitSet {
 
     public int atMostNGivenDigitSet(String[] digits, int n) {

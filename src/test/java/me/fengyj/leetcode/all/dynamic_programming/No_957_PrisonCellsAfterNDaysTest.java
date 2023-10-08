@@ -1,6 +1,5 @@
 package me.fengyj.leetcode.all.dynamic_programming;
 
-import me.fengyj.leetcode.all.dynamic_programming.No_957_PrisonCellsAfterNDays;
 import org.junit.Assert;
 import org.junit.Test;
 
