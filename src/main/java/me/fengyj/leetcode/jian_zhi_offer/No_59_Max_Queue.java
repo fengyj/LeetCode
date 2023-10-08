@@ -1,7 +1,6 @@
 package me.fengyj.leetcode.jian_zhi_offer;
 
 import java.util.LinkedList;
-import java.util.List;
 
 public class No_59_Max_Queue {
     
