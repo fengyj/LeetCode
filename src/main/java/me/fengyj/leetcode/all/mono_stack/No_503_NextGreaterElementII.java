@@ -13,7 +13,7 @@ public class No_503_NextGreaterElementII {
         if(nums.length == 0) return result;
         Arrays.fill(result, -1);
 
-        Deque<Integer> stack = new LinkedList<Integer>();
+        Deque<Integer> stack = new LinkedList<>();
 
         for(int i = 0; i < result.length * 2; i++) {
 
